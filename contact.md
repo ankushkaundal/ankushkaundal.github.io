@@ -3,24 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ankushkaundal026@gmail.com](mailto:ankushkaundal026@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+<!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> NBH, IISc Bengaluru
 >
-> London
+> Bengaluru, 560012
 >
-> United Kingdom
+> INDIA
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/ankushkaundal/)
+<!--2. [Twitter](#) -->
+<!--3. [Google+](#) -->
