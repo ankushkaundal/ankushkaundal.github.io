@@ -26,7 +26,7 @@ Year | Award | Category
 -----|-------|--------
 2014 |       | 
 2015 |       |
-2014 | Satellite | 
+2014 |       | 
 
 Here is a horizontal rule
 
