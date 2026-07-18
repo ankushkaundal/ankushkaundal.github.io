@@ -19,11 +19,11 @@ Computational Science, Numerical Groundwater Modelling, Hydrogeology, Flood Mode
 
 ## Publications
 
-(1). **Kaundal, A.**, Muddu, S., 2026. *Sequential estimation of aquifer parameters using water table elevations.*
+[1]. **Kaundal, A.**, Muddu, S., 2026. *Sequential estimation of aquifer parameters using water table elevations.*
 Journal of Hydrology [link](https://doi.org/10.1016/j.jhydrol.2026.135967) [pdf]
-(2). High-frequency groundwater measurements capture bonus recharge in a humid tropical catchment.
+[2]. High-frequency groundwater measurements capture bonus recharge in a humid tropical catchment.
 Journal of Hydrology (in-review)
-(3). Kaundal, A. and Muddu, S.: A simplified approach to modelling groundwater dynamics in complex, data
+[3]. Kaundal, A. and Muddu, S.: A simplified approach to modelling groundwater dynamics in complex, data
 scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [link] [pdf]
 
 <!-- ## Typography
