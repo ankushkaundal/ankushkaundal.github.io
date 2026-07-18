@@ -26,7 +26,7 @@ Journal of Hydrology (in-review)
 3. Kaundal, A. and Muddu, S.: A simplified approach to modelling groundwater dynamics in complex, data
 scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [link] [pdf]
 
-## Typography
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -50,3 +50,4 @@ Here is a blockquote
 
 * Parker Bar: Head of Department, Placeholder Names, Lorem
 * John Park: Associate Professor, Department of Computer Science, Ipsum
+* -->
