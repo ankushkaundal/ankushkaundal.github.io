@@ -30,8 +30,8 @@
     ol {
     padding: 0;
     margin: 0;
+    list-style-position: inside;
     }
-    
     ol > li:before {
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
