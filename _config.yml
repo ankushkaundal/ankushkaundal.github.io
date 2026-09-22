@@ -4,15 +4,17 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 tracking_id: #
-footer: yes
-footer_url: "https://github.com/ankushkaundal"
-footer_text: "Ankush Kaundal"
+footer: no
 sass:
     style: compressed
     sass_dir: _sass
 nav:
  - name: "About"
    link: "/"
+ - name: "Publications"
+   link: "publications"
+ - name: "Projects"
+   link: "projects"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
