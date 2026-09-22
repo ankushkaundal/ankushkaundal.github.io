@@ -1,3 +1,21 @@
 ---
 ---
 @import "style";
+
+img {
+  border-radius: 10%;
+
+  @media only screen and (max-width:767px) {
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media only screen and (min-width:767px) {
+    max-width: 30%;
+    float: left;
+    margin-right: 20px;
+  }
+  
+}
