@@ -13,11 +13,27 @@ In addition, I conduct numerical modelling and scenario modelling to investigate
 
 In the past i worked as Machine learning engineer at Smartterra with Gokul and Navaneethan. I was also a numerical modeller at Adani project with Fluxgen.
 
+
 ## Publications
+
+<span class='paper-title'>Sequential estimation of aquifer parameters using water table elevations.</span>\
+**Kaundal, A.**, Muddu, S., 2026.\
+Journal of Hydrology.\
+[[link](https://doi.org/10.1016/j.jhydrol.2026.135967)] [[pdf](https://drive.google.com/file/d/1EScDDZmGMS1_LrDk9XVP6RWtxmezvP7C/view?pli=1)]
+
+<span class='paper-title'>High-frequency groundwater measurements capture bonus recharge in a humid tropical catchment.</span>\
+Journal of Hydrology (in-review).
+
+<span class='paper-title'>A simplified approach to modelling groundwater dynamics in complex, data scarce semi-arid basins.</span>\
+**Kaundal, A.** and Muddu, S.\
+EGU General Assembly 2025, Vienna, Austria.\
+[[link](https://meetingorganizer.copernicus.org/EGU25/EGU25-1016.html)] [pdf]
+
+<!-- ## Publications
 
 1. **Kaundal, A.**, Muddu, S., 2026. *Sequential estimation of aquifer parameters using water table elevations.*
 Journal of Hydrology [[link](https://doi.org/10.1016/j.jhydrol.2026.135967)] [[pdf](https://drive.google.com/file/d/1EScDDZmGMS1_LrDk9XVP6RWtxmezvP7C/view?pli=1)]
 2. High-frequency groundwater measurements capture bonus recharge in a humid tropical catchment.
 Journal of Hydrology (in-review)
 3. Kaundal, A. and Muddu, S.: A simplified approach to modelling groundwater dynamics in complex, data
-  scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU25/EGU25-1016.html)] [pdf]
+  scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU25/EGU25-1016.html)] [pdf] -->
