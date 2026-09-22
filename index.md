@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## About Me
 
 <img class="profile-picture" src="pic_github.png">
 
