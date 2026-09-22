@@ -9,7 +9,7 @@ sass:
     style: compressed
     sass_dir: _sass
 nav:
- - name: "About"
+ - name: "about"
    link: "/"
 # - name: "publications"
  #  link: "publications" 
