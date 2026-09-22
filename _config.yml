@@ -11,9 +11,9 @@ sass:
 nav:
  - name: "about"
    link: "/"
-# - name: "publications"
+ #- name: "publications"
  #  link: "publications" 
-  - name: "github"
+ - name: "github"
    link: "https://github.com/ankushkaundal"
  - name: "projects"
    link: "projects"
