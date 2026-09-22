@@ -6,7 +6,7 @@ layout: default
 <img class="profile-picture" src="pic_github.png">
 
 I am a Senior Researcher at the Indian Institute of Science ([IISc](https://www.iisc.ac.in/)), Bengaluru, where my work focuses on computational science, parameter
-estimation, and inverse modelling methods for subsurface hydrology. I work with [[Prof. Sekhar Muddu](https://civil.iisc.ac.in/~muddu/)] on variety of subsurface hydrology modelling topics.
+estimation, and inverse modelling methods for subsurface hydrology. I work with [Prof. Sekhar Muddu](https://civil.iisc.ac.in/~muddu/) on variety of subsurface hydrology modelling topics.
 
 I am also a Senior Engineer in the UK Water Management team at [AtkinsRéalis](https://www.atkinsrealis.com/), where I lead the development of automation solutions and computational tools for post-processing, model diagnostics, and anomaly detection in [UK Environment Agency’s](https://www.gov.uk/government/organisations/environment-agency) numerical groundwater models.
 In addition, I conduct numerical modelling and scenario modelling to investigate the response of UK groundwater systems to changes in subsurface abstraction and climate forcings.
