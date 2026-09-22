@@ -14,7 +14,7 @@ In addition, I conduct numerical modelling and scenario modelling to investigate
 In the past i worked as Machine learning engineer at Smartterra with Gokul and Navaneethan. I was also a numerical modeller at Adani project with Fluxgen.
 
 
-#### Journal Publications
+### Journal Publications
 
 <span class='paper-title'>Sequential estimation of aquifer parameters using water table elevations.</span>\
 **Kaundal, A.**, Muddu, S., 2026.\
