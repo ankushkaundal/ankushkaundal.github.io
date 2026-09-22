@@ -6,16 +6,11 @@ layout: default
 
 <img class="profile-picture" src="pic_github.png">
 
-I am a Senior Researcher at the Indian Institute of Science (IISc),
-Bengaluru, where my work focuses on computational science, parameter
-estimation, and inverse modelling methods. I am also a Senior Engineer
-at AtkinsRéalis, leading the development of post-processing tools and
-automation solutions for the UK Environment Agency’s groundwater models.
-In addition, I conduct scenario modelling to assess the impacts of 
-abstraction changes and climate change on UK groundwater systems.
+I am a Senior Researcher at the Indian Institute of Science (IISc), Bengaluru, where my work focuses on computational science, parameter
+estimation, and inverse modelling methods for subsurface hydrology. 
 
-## Research Interest
-Computational Science, Numerical Groundwater Modelling, Hydrogeology, Flood Modelling and Risk Analysis, Automation of Numerical Models, Machine Learning in Hydrology, Advanced Geospatial Analysis.
+I am also a Senior Engineer in the UK Water Management team at [AtkinsRéalis](https://www.atkinsrealis.com/), where I lead the development of automation solutions and computational tools for post-processing, model diagnostics, and anomaly detection in [UK Environment Agency’s](https://www.gov.uk/government/organisations/environment-agency) numerical groundwater models.
+In addition, I conduct numerical modelling and scenario modelling to investigate the response of UK groundwater systems to changes in subsurface abstraction and climate forcings.
 
 ## Publications
 
@@ -25,29 +20,3 @@ Journal of Hydrology [link](https://doi.org/10.1016/j.jhydrol.2026.135967) [pdf]
 Journal of Hydrology (in-review)
 3. Kaundal, A. and Muddu, S.: A simplified approach to modelling groundwater dynamics in complex, data
   scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [link] [pdf]
-
-<!-- ## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 |       | 
-2015 |       |
-2014 |       | 
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing i
-
-## References
-
-* Parker Bar: Head of Department, Placeholder Names, Lorem
-* John Park: Associate Professor, Department of Computer Science, Ipsum
-* -->
