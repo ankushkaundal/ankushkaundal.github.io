@@ -13,6 +13,8 @@ nav:
    link: "/"
 # - name: "publications"
  #  link: "publications" 
+  - name: "github"
+   link: "https://github.com/ankushkaundal"
  - name: "projects"
    link: "projects"
  - name: "resume"
