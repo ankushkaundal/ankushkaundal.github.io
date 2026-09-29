@@ -20,7 +20,7 @@ Prior to this, I led a team at [FluxGen](https://fluxgen.com/){:target="_blank"}
 Journal of Hydrology [[link](https://doi.org/10.1016/j.jhydrol.2026.135967){:target="_blank"}] [[pdf](https://drive.google.com/file/d/1EScDDZmGMS1_LrDk9XVP6RWtxmezvP7C/view?pli=1){:target="_blank"}]
 2. High-frequency groundwater measurements capture bonus recharge in a humid tropical catchment.
 Journal of Hydrology (in-review)
-3. Kaundal, A. and Muddu, S., 2025. A simplified approach to modelling groundwater dynamics in complex, data
+3. **Kaundal, A.**, Muddu, S., 2025. A simplified approach to modelling groundwater dynamics in complex, data
   scarce semi-arid basins, EGU General Assembly 2025, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU25/EGU25-1016.html){:target="_blank"}] [pdf]
 
 
