@@ -6,7 +6,7 @@ markdown: kramdown
 tracking_id: #
 footer: no
 favicon: true
-favicon_location: "/fevicon2b.png"
+favicon_location: "/fevicon3.png"
 sass:
     style: compressed
     sass_dir: _sass
