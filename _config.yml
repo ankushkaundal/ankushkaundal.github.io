@@ -5,6 +5,8 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 tracking_id: #
 footer: no
+favicon: true
+favicon_location: "/favicon1.png"
 sass:
     style: compressed
     sass_dir: _sass
