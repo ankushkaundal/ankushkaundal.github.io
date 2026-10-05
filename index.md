@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="pic_github2.png">
+<img class="profile-picture" src="pic_github.png">
 
 I am a Senior Researcher at the Indian Institute of Science ([IISc](https://www.iisc.ac.in/){:target="_blank"}), Bengaluru, where my work focuses on computational science, parameter
 estimation, and inverse modelling methods for subsurface hydrology. I work with [Sekhar Muddu](https://civil.iisc.ac.in/~muddu/){:target="_blank"} on variety of subsurface hydrology modelling topics. I am currently working on continental-scale subsurface parameter estimation using billions of inverse simulations with physics-based models, implemented on parallel computing architectures and executed on the [PARAM Pravega](https://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/){:target="_blank"} supercomputer.
