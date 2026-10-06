@@ -79,7 +79,7 @@
 /* Projects grid */
 .content .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 24px;
     margin: 30px 0;
 }
@@ -93,7 +93,7 @@
     display: block;
     width: 100%;
     max-width: 100%;
-    height: 160px;
+    height: 220px;
     object-fit: cover;
     float: none;
     margin: 0;
