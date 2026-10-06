@@ -6,23 +6,23 @@ layout: default
 <h3>Projects</h3>
 <div class="project-grid">
   <div class="project-card">
-    <img src="images/inverse_algorithm.jpg" alt="Continental-scale parameter estimation">
+    <img src="images/inverse_algorithm.jpg" alt="Novel sequential inversion algorithm">
+    <div class="project-body">
+      <div class="project-title">Novel Sequential Inversion Algorithm</div>
+      <p>Our sequential inversion algorithm uses a borewell-scale, physics-based model to estimate aquifer parameters.</p>
+      <p><a href="https://doi.org/10.1016/j.jhydrol.2026.135967" target="_blank">Read the paper</a></p>
+    </div>
+  </div>
+  <div class="project-card">
+    <img src="images/sy.jpg" alt="Billions of inverse simulations to estimate subsurface parameter at Continental-scales">
     <div class="project-body">
       <div class="project-title">Continental-scale Parameter Estimation</div>
-      <p>Billions of inverse simulations with physics-based models on the PARAM Pravega supercomputer.</p>
-      <p><a href="https://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/" target="_blank">PARAM Pravega</a></p>
+      <p>1.04 billion inverse simulations with a physics-based model, run on the <a href="https://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/" target="_blank">PARAM Pravega</a> supercomputer using parallel computing, to estimate             subsurface parameters at continental scale.</p>
+      <p>Based on our novel sequential inversion algorithm. <a href="https://doi.org/10.1016/j.jhydrol.2026.135967" target="_blank">Read the paper</a></p>
     </div>
   </div>
   <div class="project-card">
-    <img src="images/sy.jpg" alt="UK groundwater automation">
-    <div class="project-body">
-      <div class="project-title">UK Groundwater Automation</div>
-      <p>Post-processing, diagnostics and anomaly detection for numerical groundwater models.</p>
-      <p><a href="#" target="_blank">link</a></p>
-    </div>
-  </div>
-  <div class="project-card">
-    <img src="images/lake_recharge.jpg" alt="Lake recharge modelling">
+    <img src="images/lake_recharge.jpg" alt="Modelling subsurface recharge through Lakes">
     <div class="project-body">
       <div class="project-title">Lake Recharge Modelling</div>
       <p>MODFLOW models quantifying artificial recharge through lakes.</p>
@@ -30,17 +30,17 @@ layout: default
     </div>
   </div>
   <div class="project-card">
-    <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
-    <div class="project-body">
-      <div class="project-title">Surrogate / Hybrid Numerical Models</div>
-      <p>Combining physics-based and ML-based models for quick predictions and faster numerical model runs.</p>
-    </div>
-  </div>
-    <div class="project-card">
     <img src="images/bial_modflow.jpg" alt="Numerical simulation of groundwater flow">
     <div class="project-body">
       <div class="project-title">Numerical Simulation of Groundwater Flow</div>
-      <p>Numerical simulations to estimate groundwater resource quantification.</p>
+      <p>Numerical simulations to estimate groundwater resources at Bengaluru International Airport (BIAL).</p>
+    </div>
+  </div>
+  <div class="project-card">
+    <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
+    <div class="project-body">
+      <div class="project-title">Surrogate / Hybrid Physics-ML Models</div>
+      <p>Training ML models on numerical model simulations to build fast surrogates for quick predictions.</p>
     </div>
   </div>
 </div>
