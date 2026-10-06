@@ -36,5 +36,12 @@ layout: default
       <p>Combining physics-based and ML-based models for quick predictions and faster numerical model runs.</p>
     </div>
   </div>
+    <div class="project-card">
+    <img src="images/bial_modflow.jpg" alt="Numerical simulation of groundwater flow">
+    <div class="project-body">
+      <div class="project-title">Numerical Simulation of Groundwater Flow</div>
+      <p>Numerical simulations to estimate groundwater resource quantification.</p>
+    </div>
+  </div>
 </div>
 </div>
