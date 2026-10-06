@@ -6,7 +6,7 @@ layout: default
 
 <div class="project-grid">
   <div class="project-card">
-    <img src="images/project1.jpg" alt="Continental-scale parameter estimation">
+    <img src="images/inverse_algorithm.png" alt="Continental-scale parameter estimation">
     <div class="project-body">
       <div class="project-title">Continental-scale Parameter Estimation</div>
       <p>Billions of inverse simulations with physics-based models on the PARAM Pravega supercomputer.</p>
@@ -14,7 +14,7 @@ layout: default
     </div>
   </div>
   <div class="project-card">
-    <img src="images/project2.jpg" alt="UK groundwater automation">
+    <img src="images/sy.png" alt="Continental-scale parameter estimation">
     <div class="project-body">
       <div class="project-title">UK Groundwater Automation</div>
       <p>Post-processing, diagnostics and anomaly detection for numerical groundwater models.</p>
@@ -22,7 +22,7 @@ layout: default
     </div>
   </div>
   <div class="project-card">
-    <img src="images/project3.jpg" alt="Lake recharge modelling">
+    <img src="images/lake_recharge.png" alt="Lake recharge modelling">
     <div class="project-body">
       <div class="project-title">Lake Recharge Modelling</div>
       <p>MODFLOW models quantifying artificial recharge through lakes.</p>
