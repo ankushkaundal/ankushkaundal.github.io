@@ -141,3 +141,33 @@
 @media (max-width: 500px) {
     .content .project-card { flex: 0 0 100%; }
 }
+/* Click-to-enlarge images */
+.content .project-card img {
+    cursor: zoom-in;
+}
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+}
+.lightbox.open {
+    display: flex;
+}
+.lightbox img {
+    max-width: 92vw;
+    max-height: 90vh;
+    width: auto;
+    height: auto;
+    float: none;
+    margin: 0;
+    border-radius: 8px;
+    background: #fff;
+}
