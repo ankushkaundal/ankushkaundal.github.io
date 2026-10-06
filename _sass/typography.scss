@@ -78,12 +78,15 @@
 }
 /* Projects grid */
 .content .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    margin: 30px 0;
     width: 960px;
     max-width: 94vw;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
 }
 .content .project-card {
     background: rgba(239, 62, 106, 0.08);
