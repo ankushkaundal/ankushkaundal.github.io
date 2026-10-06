@@ -29,5 +29,12 @@ layout: default
       <p><a href="#" target="_blank">link</a></p>
     </div>
   </div>
+  <div class="project-card">
+    <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
+    <div class="project-body">
+      <div class="project-title">Surrogate / Hybrid Numerical Models</div>
+      <p>Combining physics-based and ML-based models for quick predictions and faster numerical model runs.</p>
+    </div>
+  </div>
 </div>
 </div>
