@@ -44,3 +44,24 @@ layout: default
   </div>
 </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var box = document.createElement('div');
+  box.className = 'lightbox';
+  var big = document.createElement('img');
+  box.appendChild(big);
+  document.body.appendChild(box);
+  document.querySelectorAll('.project-card img').forEach(function (img) {
+    img.addEventListener('click', function () {
+      big.src = img.src;
+      big.alt = img.alt;
+      box.classList.add('open');
+    });
+  });
+  box.addEventListener('click', function () { box.classList.remove('open'); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { box.classList.remove('open'); }
+  });
+});
+</script>
