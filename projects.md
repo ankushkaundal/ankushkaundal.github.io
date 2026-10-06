@@ -14,11 +14,10 @@ layout: default
     </div>
   </div>
   <div class="project-card">
-    <img src="images/sy.jpg" alt="Billions of inverse simulations to estimate subsurface parameter at Continental-scales">
+    <img src="images/sy.jpg" alt="Billions of inverse simulations to estimate subsurface parameters at continental scale">
     <div class="project-body">
       <div class="project-title">Continental-scale Parameter Estimation</div>
-      <p>1.04 billion inverse simulations with a physics-based model, run on the <a href="https://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/" target="_blank">PARAM Pravega</a> supercomputer using parallel computing, to estimate             subsurface parameters at continental scale.</p>
-      <p>Based on our novel sequential inversion algorithm. <a href="https://doi.org/10.1016/j.jhydrol.2026.135967" target="_blank">Read the paper</a></p>
+      <p>Billions of inverse simulations on a parallel computing architecture, run on the <a href="https://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/" target="_blank">PARAM Pravega</a> supercomputer, using our <a        href="https://doi.org/10.1016/j.jhydrol.2026.135967" target="_blank">sequential inversion algorithm</a>.</p>
     </div>
   </div>
   <div class="project-card">
