@@ -34,13 +34,6 @@ layout: default
       <p>Numerical simulations to estimate groundwater resources at Bengaluru International Airport (BIAL).</p>
     </div>
   </div>
-  <div class="project-card">
-    <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
-    <div class="project-body">
-      <div class="project-title">Surrogate / Hybrid Physics-ML Models</div>
-      <p>Training ML models on numerical flood model simulations to build fast surrogates for quick flood predictions.</p>
-    </div>
-  </div>
    <div class="project-card">
     <img src="images/lake_recharge.jpg" alt="Modelling subsurface recharge through Lakes">
     <div class="project-body">
