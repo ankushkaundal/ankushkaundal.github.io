@@ -21,10 +21,10 @@ layout: default
     </div>
   </div>
   <div class="project-card">
-    <img src="images/lake_recharge.jpg" alt="Modelling subsurface recharge through Lakes">
+    <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
     <div class="project-body">
-      <div class="project-title">Modelling of Artificial Groundwater Recharge Through Lakes </div>
-      <p>Numerical models and scenario simulations to quantify artificial subsurface recharge through lakes.</p>
+      <div class="project-title">Surrogate / Hybrid Physics-ML Models</div>
+      <p>Training ML models on numerical model simulations to build fast surrogates for quick predictions.</p>
     </div>
   </div>
   <div class="project-card">
@@ -41,6 +41,13 @@ layout: default
       <p>Training ML models on numerical model simulations to build fast surrogates for quick predictions.</p>
     </div>
   </div>
+   <div class="project-card">
+    <img src="images/lake_recharge.jpg" alt="Modelling subsurface recharge through Lakes">
+    <div class="project-body">
+      <div class="project-title">Modelling of Artificial Groundwater Recharge Through Lakes </div>
+      <p>Numerical models and scenario simulations to quantify artificial subsurface recharge through lakes.</p>
+    </div>
+  </div> 
 </div>
 </div>
 
