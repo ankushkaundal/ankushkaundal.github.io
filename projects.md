@@ -38,7 +38,7 @@ layout: default
     <img src="images/ml_flow.jpg" alt="Surrogate and hybrid numerical models">
     <div class="project-body">
       <div class="project-title">Surrogate / Hybrid Physics-ML Models</div>
-      <p>Training ML models on numerical model simulations to build fast surrogates for quick predictions.</p>
+      <p>Training ML models on numerical flood model simulations to build fast surrogates for quick flood predictions.</p>
     </div>
   </div>
    <div class="project-card">
