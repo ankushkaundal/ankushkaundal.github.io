@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Call</title>
+<style>
+  body { font-family: Arial, sans-serif; display: flex; flex-direction: column;
+         align-items: center; justify-content: center; min-height: 90vh; margin: 0;
+         background: #f4f6f8; color: #222; text-align: center; }
+  #num { font-size: 30px; font-weight: bold; margin: 16px 0 28px; letter-spacing: 1px; }
+  a.btn { background: #1a9c3e; color: #fff; text-decoration: none; font-size: 24px;
+          padding: 18px 56px; border-radius: 40px; }
+  p.err { color: #b00020; font-size: 18px; }
+</style>
+</head>
+<body>
+  <div>Calling</div>
+  <div id="num"></div>
+  <a id="btn" class="btn" href="#">Call</a>
+<script>
+  // Number is read from the part after '#', which browsers never send to the server.
+  var raw = decodeURIComponent(location.hash.slice(1)).replace(/[^\d+]/g, "");
+  var btn = document.getElementById("btn"), num = document.getElementById("num");
+  if (/^\+?\d{6,15}$/.test(raw)) {
+    num.textContent = raw;
+    btn.href = "tel:" + raw;
+    location.href = "tel:" + raw;          // opens the dialer automatically
+  } else {
+    btn.style.display = "none";
+    num.innerHTML = '<p class="err">No valid phone number in this link.</p>';
+  }
+</script>
+</body>
+</html>
